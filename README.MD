@@ -7,7 +7,7 @@ Learning Progress by WB
 - [X] - 01/12/2022 - Chapter 2: Training Simple Machine Learning Algorithm for Classification<br>
 - [X] - 02/12/2022 - Chapter 3: A tour in Machine Learning classifier using sklearn<br>
 - [X] - 03/12/2022 - Chapter 4: Building Good Training Datasets - Data Preprocessing<br>
-- [ ] - Chapter 5<br>
+- [X] - 05/12/2022 - Chapter 5: Compressing Data via Dimensionality Reduction<br>
 - [ ] - Chapter 6<br>
 - [ ] - Chapter 7<br>
 - [ ] - Chapter 8<br>
