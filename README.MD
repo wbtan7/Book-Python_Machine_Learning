@@ -8,7 +8,7 @@ Learning Progress by WB
 - [X] - 02/12/2022 - Chapter 3: A tour in Machine Learning classifier using sklearn<br>
 - [X] - 03/12/2022 - Chapter 4: Building Good Training Datasets - Data Preprocessing<br>
 - [X] - 05/12/2022 - Chapter 5: Compressing Data via Dimensionality Reduction<br>
-- [ ] - Chapter 6<br>
+- [X] - 06/12/2022 - Chapter 6: Learning Best Practices for Model Evaluation and Hyperparameter Tuning<br>
 - [ ] - Chapter 7<br>
 - [ ] - Chapter 8<br>
 - [ ] - Chapter 9<br>
